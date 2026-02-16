@@ -1,0 +1,20 @@
+{
+  "domain": "magnetar",
+  "name": "Magnetar",
+  "codeowners": [
+    "@chillywasher"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/magnetar",
+  "homekit": {},
+  "iot_class": "assumed_state",
+  "integration_type": "device",
+  "quality_scale": "bronze",
+  "requirements": [
+    "pyserial==3.5"
+  ],
+  "version": "1.0.0",
+  "ssdp": [],
+  "zeroconf": []
+}
